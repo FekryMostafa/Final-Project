@@ -1,8 +1,0 @@
-* = required field
-Please help us prevent spam by using the reCAPTCHA below.
-
-				ADDRESS:
-					931 Thomas Jefferson Parkway
-					Charlottesville, VA 22902
-				GENERAL INFORMATION: 
-					(434) 984-9800

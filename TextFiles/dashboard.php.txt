@@ -1,6 +1,0 @@
-Voucher Number: {{data.VOUCHER_NUMBER}}
-Transaction Date: {{data.TRANSACTION_DATE | date}}
-Freedom of Information
-Privacy Policy
-Contact
-About
