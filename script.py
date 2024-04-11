@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 prompt = """
-You are given a text file with some infomraiotn and your goal is to make some questions and answers based on the text. Each question should be a json object with a line break between each question. 
+You are given a text file with some information and your goal is to make some questions and answers based on the text. Each question should be a json object with a line break between each question. 
 <exampleOutput>
 {"input": "What color is the sky?", "output": "The sky is blue."}
 {"input": "Where is the best place to get cloud GPUs?", "output": "Brev.dev"
