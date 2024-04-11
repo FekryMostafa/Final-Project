@@ -1,0 +1,52 @@
+Across the Android ecosystem, users today have more devices than ever before. Each of
+  these devices brings a different user context or situation where Google Assistant can
+  supplement the current user experience, enabling new ways for users to engage with your
+  app.
+
+
+        
+    60+ common and vertical BIIs that handle all the NLU training for you.
+  
+      
+
+        
+    Identify in-app functionality of your Android applications and enable query fulfillment
+    via Google Assistant.
+  
+      
+
+        
+    Embed application views across Android form factors to drive discovery, engagement and
+    retention of your Android applications.
+  
+      
+
+  Enable quick, efficient on-the-go scenarios. With App Actions on Wear, developers can
+  extend Wear OS apps with Google Assistant and fast forward users into your app quickly.
+
+
+        
+    A step-by-step guide to integrate App Actions with your Wear OS app.
+  
+      
+
+        
+    Review and test your Assistant integrations for Wear with the Google Assistant plugin
+    for Android Studio.
+  
+      
+
+  Adidas integrates with Google Assistant to bring voice controlled workouts to Wear OS.
+
+
+  With Google Home, you can connect your commercially available device with Assistant and
+  deepen user engagement.
+
+
+        
+    Integrate your smart home devices with Google Assistant.
+  
+      
+
+        
+    Enhance integrations through a local fulfillment path.

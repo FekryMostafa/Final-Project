@@ -1,0 +1,9 @@
+Chrome’s ad privacy features improve your privacy online. At the same time, they support ads and the no charge content and services that ads make possible.
+Sites you visit can embed content from other sites to enrich their content, like images, ads, and text. Today, this embedded content can use third-party cookies to track you as you browse the web. You can choose to block cookies today, however, this often causes website functionality to break. The ad privacy features in Chrome can deliver the same browsing experience without the tracking.
+This is all part of the planned elimination of third-party cookies in the second half of 2024. It’s only a first step towards a more private web. Chrome will continue to roll out more privacy protections over time.
+When used for advertising, Ad Privacy APIs protect your identity and minimize the amount of data sites can use to learn about you. Here’s how:
+Important: Ads shown by websites are also subject to the site’s policies.
+As you browse, these settings allow you to influence the information sites use to show you personalized ads when those sites are using the Ad Privacy APIs. You can turn off these features in your Chrome settings at any time. You can also clear, allow, and manage cookies in Chrome.
+These new settings and the deprecation of third-party cookies is a work in progress. The full privacy benefits provided by the new Ad Privacy APIs won’t be realized until after third-party cookies are deprecated in Chrome starting in the second half of 2024.
+To change your Chrome ad privacy settings:
+Ad privacy settings aren't available for Chrome on iOS devices.

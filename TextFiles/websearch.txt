@@ -1,0 +1,10 @@
+Users can now migrate Google Podcasts subscriptions to YouTube Music or to another app that supports OPML import. Learn more here
+On Google, you can search for information from Gmail, like upcoming flights or hotel reservations.
+Tip: Some examples won't work in all regions.
+Transportation: Find your car, bus, or train reservations by searching my car reservation, bus tickets or my train tickets.
+Results from your Google products are private. No one else will get your information in their results unless you've explicitly shared it with them or it's available publicly.
+You're the only person who will get results that come from your Gmail.
+You're in control of whether you get search results from Gmail.
+Tip: You need to search on https://www.google.com and sign in to a Google Account to follow these steps.
+If you turn off personal results, it stays paused as long as you're signed in to your Google Account. You might still get results based on your Web & App Activity. Learn how Search works with your activity.
+To stop getting search results based on your account activity and other Google products, learn how to turn off Web & App Activity.

@@ -1,0 +1,5 @@
+Washington and Lee University uses your network credentials to login to Box. Continue to login to Box through your network.
+If you are not a part of Washington and Lee University, continue to log in with your Box.com account.
+The use of ITS services is governed by ITS and University policies and applicable laws.  Your use of ITS services, including the Box at W&L service and the W&L network, constitutes your agreement to abide by these policies and data restrictions.
+Questions? Contact the ITS Information Desk at help@wlu.edu
+About Box at W&L | Support

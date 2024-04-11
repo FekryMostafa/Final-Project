@@ -1,0 +1,26 @@
+By Louise UffelmanOctober 3, 2017
+
+“After being able set up and run experiments myself, I can definitely say that I am more able to seriously consider a future in research.”
+Yavuz Durmaz ’20
+Hometown: Roanoke, Virginia
+Major: Biochemistry
+Q: Tell us a little bit about your summer opportunity:
+This summer I worked with Dr. Friend in the Biochemistry Department to investigate the role of amino acid misincorporation in messenger RNA (mRNA) degradation. While it has been determined for almost 30 years that translated mRNAs are inherently unstable, the role that translation elongation plays in mRNA instability is only being investigated more recently.
+There are three major stages of mRNA translation: initiation, elongation and termination. After the 60s and 40s ribosomal subunits initiate translation, codon recognition is coupled with the addition of amino acids to a growing polypeptide chain during the elongation phase. At this point in translation, the ribosome is most susceptible to error by amino acid misincorporation, which promotes decay. In order to carry out this experiment I perturbed the rates of amino acid misincorporation by treating the ribosome with one of two antibiotics: G418 or Cycloheximide. The G418 antibiotic will upregulate misincorporation, whereas the Cycloheximide will act as a control antibiotic, inhibiting translation. Translation reactions will be set up in vitro allowing the mRNA to be incubated with the antibiotics, which will be titrated so that translation is minimally inhibited. Levels of degradation will be quantified by the levels of mRNA based on the amount of protein produced using firefly luciferase assay.
+Q: What does an average day for you look like?
+I typically arrive at the lab at around 9 a.m. and work until 5 p.m. My morning routines depend on where I left off the previous day. I will either continue with my experiment or discuss my results with Dr. Friend to determine the best approach going forward. The work itself is fairly independent and allows me to start on my experiments alone. Dr. Friend, of course, is usually available to answer any question that may come up.
+Q: What has been the most rewarding and fulfilling part of this summer?
+The most rewarding part of my experience was obtaining reproducible results that followed preliminary trends. While obtaining desired results in the lab is fulfilling in itself, the manipulation, troubleshooting and calculation that goes into setting up these in vitro translation and reverse transcription reactions makes the entire process all the more rewarding.
+Q: What was the biggest challenge you faced?
+The greatest challenge was probably working out different issues that were altering the certainty of my results. Early on, I was faced with problems in luminescence immediately following my translation reactions. It took a few weeks before this issue was resolved, and even afterward, I was challenged when trying to obtain consistent results due to varying RNA yield following isolation after translation.
+Q: Who has served as a mentor to you this summer, and what have they taught you?
+This summer, Dr. Friend has indisputably acted as a mentor to me, showing me around the lab from day one and running through different experiments with me. From him I learned how to set up multiple experiments, as well as new techniques that would make benchwork much more efficient. He showed me where to focus my attention when something was going wrong and helped me to break down my experiment.
+Q: Has this experience impacted your studies or future plans in any way?
+Prior to this summer, I had considered research as a possible path to take; However, I never really could decide whether or not it was right for me based solely on readings and having little hands-on experience. After being able set up and run experiments myself, I can definitely say that I am more able to seriously consider a future in research.
+Q: Why is this kind of experience important to W&L students?
+This experience offers students a great opportunity to discover themselves and decide whether or not research or any other subject area is right for them. Throughout the summer, students from all areas of study present their research at the brown-bag lunches, which is a wonderful way to learn more about what is currently being studied and understand the different types of experiments that other students are conducting. For many students, the best part about doing research over the summer is that they are able to commit their full attention to their summer work without trying to keep up with their classes. Overall, this a great way to develop different skills and build connections with others who share a common interest.
+Q: Describe your summer adventure in one word:
+Collaborative
+If you know any W&L students who would be great profile subjects, tell us about them! Nominate them for a web profile.
+
+													You must be logged in to post a comment.

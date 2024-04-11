@@ -1,0 +1,51 @@
+Safety Center
+Safety Center
+Learn how we’re building a robust, more inclusive cyber workforce.
+Every day, billions of people use Google to find reliable information, get to their destination, connect with loved ones, and more. When you use our products and services, it’s our responsibility to keep your personal information private, safe, and secure.
+We work hard to ensure that you see helpful, high-quality search results and not web spam, such as sites that don’t deliver on the promise of high quality content or employ tactics that might prove harmful to users. We’re continuously improving our spam-fighting technology and working with those beyond Google to support a high-quality, safer web.
+All searches on google.com and in the Google app are protected by encryption.
+We secure the Search history saved to your Google Account and make it easy for you to review and delete it from your account with privacy controls.
+Search is designed to help you find what you’re looking for. You can add a layer of protection by opting into SafeSearch, which can help filter sexually explicit results.
+The Google app for iOS comes with Incognito mode. It’s always a tap away from the homescreen.
+Many malware and phishing attacks start with an email. Gmail blocks more than 99.9% of spam, phishing attempts, and malware from reaching you.
+We protect your account against suspicious logins and unauthorized activity by monitoring multiple security signals. We also offer the Advanced Protection Program for accounts most at risk of targeted attacks.
+In Google infrastructure, messages are encrypted at rest and while in transit between data centers. Messages transiting to third-party providers are encrypted with Transport Layer Security when possible or required by configuration.
+Built-in protections like Safe Browsing, sandboxing, and other best-in-class technologies protect you from dangerous sites, malware, and threats when you use Chrome.
+Chrome can automatically update every six weeks so you have the latest security features and fixes, no action needed from you.
+To keep all your accounts more secure, Chrome can help create strong and unique passwords and fill them in for you across devices as you browse the web.
+Incognito mode in Chrome gives you the choice to browse the internet without your activity being saved to your browser or your device.
+Use Maps in Incognito mode and your activity won’t be saved to your device. Easily turn on Incognito mode in Maps by tapping your profile photo, and turn it off anytime to get a more personalized experience, including  restaurant recommendations and other features tailored to you.
+With “Your data in Maps,” you can easily access your Location History and other privacy controls to view and manage your data.
+We never sell your personal information to anyone. We also provide easy ways for you to control the ads you see, and turn off ads personalization, with My Ad Center.
+While Incognito mode in YouTube is on, your activity – like the videos you watch – won’t be saved to your Google Account or included in your watch history.
+Your YouTube History can improve your experience and deliver content recommendations. Decide how long to keep your YouTube History or turn it off altogether by going to “Your Data in YouTube.”
+We protect the memories you back up to Google Photos with one of the world's most advanced security infrastructures. We also encrypt your information as it moves between your device, Google services, and our data centers.
+Google Photos doesn't sell your photos, videos, or personal information to anyone and we don't use your photos and videos for advertising. Features like face grouping making it easy to search and manage your photos. However, face groups and labels are only visible to you and we do not make general purpose facial recognition technology commercially available.
+We build easy-to-use tools that help put you in control of your Google Photos experience. You can selectively back up the photos you want stored in the cloud, securely share your photos, turn off face groups and labels to delete them from your account, and make edits to location information.
+With Google Tensor and the Common Criteria certified Titan M2 security chip, Pixel is built with multiple layers of security to help keep your personal info safe.3 Derived from the same chip we use to protect Google Cloud data centers, Titan M2 is tested against the international gold standard used for identity, SIM card, and bank card security chips. Learn more
+3 Common Criteria certification for hardware and cryptographic library. See g.co/pixel/certifications for details.
+Google uses machine learning (ML) to make our products more helpful. On-device intelligence uses ML models on Pixel to power features like Face Unlock, Now Playing, Live Caption, and Smart Reply in Messages. These features keep more of your data on your phone and private to you.  
+To help protect your privacy, Google also uses ML to keep your data on your device, with technologies like federated learning and Android Private Compute Core. Learn more
+To protect you and your sensitive data, Pixel comes with at least 5 years of security updates.1  So your Pixel gets even more secure over time. And since Google apps can be updated through Google Play, your Pixel gets new features and security fixes as soon as they’re ready.
+1 Android security updates for at least 5 years from when the device first became available on the Google Store in the US. See g.co/pixel/updates for details.
+To provide additional transparency, Pixel’s status bar indicates when apps are accessing your camera and mic. At any time, use the privacy toggles to turn your camera and mic off. This disables access for all your Pixel apps with a single tap.2
+2 If this setting is off, microphone data may still be shared when you call an emergency number.
+Google Assistant is designed to wait in standby mode until it detects an activation, like when it hears  “Hey Google.” When in standby mode, your Assistant won’t send what you are saying to Google or anyone else.
+Once Google Assistant detects an activation, it exits standby mode and sends your request to Google servers. This can also happen if there is a noise that sounds like “Hey Google” or an unintended manual activation.
+By default, your audio recordings are not saved on Google servers - you can change this setting anytime by viewing the “Include voice and audio activity” checkbox under the Web & App Activity setting.
+To control which interactions are stored, just say something like “Hey Google, delete what I said this week,” and Google Assistant will delete those interactions in “My Activity.”
+With Google Assistant’s Guest Mode, you now have even more control over your Assistant activity on your home devices. By saying “Hey Google, turn on Guest Mode,” you can turn on Guest Mode whenever you don’t want Assistant interactions to be saved to your Google Account or used to personalize your experience.
+Google Play Protect automatically scans your apps to make sure they’re safe. If you come across a bad app, we’ll quickly alert you and instruct you on how to remove the app from your device.
+Apps you download use data on your device to make their functionality more useful. App permissions give you control over if and when an app can access different types of data on your device, such as contacts, photos, and location.
+Phishing occurs when someone tries to trick you into giving them your private information. Android alerts you to spammers, and Call Screen let you ask who's calling before you ever pick up the phone.
+Contactless payments are more secure than swiping your card because merchants won’t receive your real card number. Google Pay uses a Virtual Account Number that protects your payment info.
+To keep meetings safe, Google Meet has default-on anti-abuse features and secure meeting controls, and supports multiple two-step verification options including security keys.
+All video meetings are encrypted in transit. Meet adheres to IETF security standards for Datagram Transport Layer Security (DTLS).
+We don’t require plugins to use Meet on the web. It works entirely in Chrome and other browsers, so it’s less vulnerable to security threats. On mobile, you can install the Google Meet app.
+Our displays and speakers have physical microphone mute switches, and you can manage your data – including accessing, reviewing, and deleting audio and video stored with your Google Account – at any time.
+We let you know what sensors are in our products and how they work. We list all audio, video, environmental and activity sensors – whether enabled or not – in our device technical specifications. Our Sensors Guide explains what types of data these sensors send to Google and has examples of how that data is used.
+Google Nest devices are designed to create a more helpful home. The video, audio, and environmental sensor data from our devices is used to enable helpful features and services. We explain here how we’ll keep this data separate from ad personalization.
+Google Fi protects your personal information, treats it responsibly, and puts you in control of who can reach you. All Fi plans include easy-to-use privacy and security features to give you peace of mind.
+All plans include a VPN that helps you stream, browse and download on an encrypted, private connection. It shields you from hackers, and prevents websites from using your IP address to track your location.
+Calls between Android phones on Fi are automatically secured with end-to-end encryption, so conversations stay between you and the person you’re talking to.
+Stay in control of who can reach you with suspected spam detection and blocking. Keep robocallers and scammers from calling, and block specific numbers.

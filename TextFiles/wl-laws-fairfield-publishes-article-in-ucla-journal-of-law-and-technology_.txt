@@ -1,0 +1,7 @@
+By Peter JettonMay 10, 2022
+Washington and Lee law professor Josh Fairfield, along with coauthor Niloufer Selvadurai, has published an article in the UCLA Journal of Law and Technology. The article, “Governing the Interface Between Natural and Formal Language in Smart Contracts,” examines the governance of smart contracts and the point where the ‘natural language’ of contract law crosses over into the ‘formal language’ of computer code.
+“Much of the confusion about the proper regulation of smart contracts stems from the fact that both code and law are expressed in language. Natural (human) and formal (computer) languages are profoundly different, however. Natural language in the form of a true legal contract expresses human meaning and expectation. Code simply acts, and when code acts contrary to the understanding of the parties to a contract, courts must have a theoretical and legal basis in order to intervene–which this Article provides,” Fairfield writes.
+The article is available online at the UCLA Journal of Law and Technology website.
+If you know any W&L faculty who would be great profile subjects, tell us about them! Nominate them for a web profile.
+
+													You must be logged in to post a comment.

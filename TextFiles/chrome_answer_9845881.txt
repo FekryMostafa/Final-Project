@@ -1,0 +1,8 @@
+Incognito mode can help keep your browsing private from other people who use your device.
+When you first open a new Incognito window, you’re creating a new Incognito browsing session. Any Incognito windows you open after that are part of the same session. You can end that Incognito session by closing all open Incognito windows.
+In Incognito, none of your browsing history, cookies and site data, or information entered in forms are saved on your device. This means your activity doesn’t show up in your Chrome browser history, so people who also use your device won’t see your activity. Websites see you as a new user and won’t know who you are, as long as you don’t sign in.
+If you’re browsing in Chrome Incognito mode, you are, by default, not signed into any accounts or sites.
+Your school, Internet Service Provider, or any parental tracking software may be able to see your activity. You can check if your Chrome browser is managed.
+You can choose to block third-party cookies when you open a new Incognito window. Learn more about cookies.
+While Incognito mode provides local privacy on your device, it does not affect how Google collects data when you use other products and services, as described in the Privacy Policy.
+Learn more about using Incognito mode.

@@ -1,0 +1,16 @@
+Safety Center
+Safety Center
+Learn how we’re building a robust, more inclusive cyber workforce.
+All of our products are guided by three important principles:
+With one of the world’s most advanced security infrastructures, our products are secure by default.
+We strictly uphold responsible data practices so every product we build is private by design.
+And we create easy to use privacy and security settings so you’re in control.
+
+Sundar Pichai, Google I/O 2021
+Your privacy is protected across Google with built-in security designed to automatically stop threats before they reach you.
+Encryption brings a higher level of security and privacy to our services. When you send an email, share a video, visit a website, or store your photos, the data you create moves between your device, Google services, and our data centers. We protect this data with multiple layers of security, including leading encryption technology like HTTPS and Transport Layer Security.
+We’ll proactively notify you if we detect something we think you should know about - like a suspicious login or a malicious website, file, or app - and we’ll provide guidance to help you stay better protected. When we detect something suspicious in your account, we’ll send a notification to your inbox or phone so you can protect your account with one click.
+Safe Browsing protects 5 billion devices every day, including yours. To make the internet safer for everyone, we made this technology available free of cost for other companies to use in their browsers, including Apple’s Safari and Mozilla’s Firefox. So you’re protected as you browse on Google and beyond.
+When it comes to privacy, we know one size does not fit all. That’s why we help you choose the privacy settings that are right for you. Whether you want to save, delete, or auto-delete your data, we give you the tools to do it.
+Data plays an important role in making the products and services you use every day more helpful. We are committed to treating that data responsibly and protecting your privacy with strict protocols and innovative privacy technologies.
+ Interested in being a part of our privacy & security engineering team? Visit our Careers page.

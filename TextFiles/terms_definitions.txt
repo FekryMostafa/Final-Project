@@ -1,0 +1,14 @@
+An entity that belongs to the Google group of companies, which means Google LLC and its subsidiaries, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Limited, and Google Dialer Inc.
+An individual or entity who is not a consumer (see consumer).
+An individual who uses Google services for personal, non-commercial purposes outside of their trade, business, craft, or profession. (See business user)
+A legal right that allows the creator of an original work (such as a blog post, photo, or video) to decide if and how that original work may be used by others, subject to certain limitations and exceptions (such as “fair use” and “fair dealing”).
+A statement that limits someone’s legal responsibilities.
+An individual or organization’s contractual obligation to compensate the losses suffered by another individual or organization from legal proceedings such as lawsuits.
+Rights over the creations of a person’s mind, such as inventions (patent rights); literary and artistic works (copyright); designs (design rights); and symbols, names, and images used in commerce (trademarks). IP rights may belong to you, another individual, or an organization.
+Losses from any type of legal claim, whether the claim is based on a contract, tort (including negligence), or other reason, and whether or not those losses could have been reasonably anticipated or foreseen.
+A legal entity (such as a corporation, non-profit, or school) and not an individual person.
+The Google services that are subject to these terms are the products and services listed at https://policies.google.com/terms/service-specific, including:
+Many of these services also include content that you can stream or interact with.
+Symbols, names, and images used in commerce that are capable of distinguishing the goods or services of one individual or organization from those of another.
+An assurance that a product or service will perform to a certain standard.
+Things that you create, upload, submit, store, send, receive, or share using our services, such as:

@@ -1,0 +1,10 @@
+By Erica TurmanOctober 5, 2021
+Cody Watson, assistant professor of computer science at Washington and Lee University, has published a paper in ACM Transactions on Software Engineering and Methodology (TOSEM) titled “A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research.”
+TOSEM is a top-tier software engineering journal. According to TOSEM’s website, “Designing and building a large, complex software system is a tremendous challenge. TOSEM publishes papers on all aspects of that challenge: specification, design, development and maintenance. It covers tools and methodologies, languages, data structures and algorithms.”
+“Not only was this a large and multifaceted study into how deep learning has been applied to software engineering, but it also finds patterns via rule association to identify common trends in deep learning applications,” said Watson. “For example, we note that when using deep learning to perform automated code generation, the most common preprocessing technique is tokenization. These patterns and mined rules help future researchers in software engineering understand the best practices when applying deep learning models.”
+The research highlighted in the paper also serves as a research roadmap to identifying areas within software engineering where deep learning may have viable applications.
+“Our work generates a series of guidelines for applying deep learning models to software engineering research tasks,” Watson said. “Adherence to the guidelines should lead to an increase of reproducibility and replicability of future deep learning-based approaches. We hope this paper proves to be a useful tool and opens up new research directions for this new and exciting field.”
+Read the entire paper online here.
+If you know a W&L faculty member who has done great, accolade-worthy things, tell us about them! Nominate them for an accolade.
+
+													You must be logged in to post a comment.

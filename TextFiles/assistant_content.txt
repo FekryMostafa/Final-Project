@@ -1,0 +1,22 @@
+Give users richer experiences on Google Search and Assistant
+  by marking up your existing web content.
+
+
+  Mark up content that can be eligible for rich results
+  in Google Search using Schema.org. By doing so, we'll
+  automatically generate an Action for Assistant
+  with the marked up content.
+
+
+  Expand your podcast’s audience to Assistant by structuring your
+  RSS feed according to our guidelines.
+
+
+  Bring your news content to Assistant by providing structured data.
+
+
+  Mark up your FAQ page so we can present your content to users who search
+  Google for your topic.
+
+
+ Make your audio tracks and albums available to listeners on Google Assistant.

@@ -1,0 +1,76 @@
+With Pixel 6 and Pixel 6 Pro, we’re launching our most secure Pixel phone yet, with 5 years of security updates and the most layers of hardware security. These new Pixel smartphones take a layered security approach, with innovations spanning across the Google Tensor system on a chip (SoC) hardware to new Pixel-first features in the Android operating system, making it the first Pixel phone with Google security from the silicon all the way to the data center. Multiple dedicated security teams have also worked to ensure that Pixel’s security is provable through transparency and external validation. 
+
+
+Secure to the Core 
+
+
+Google has put user data protection and transparency at the forefront of hardware security with Google Tensor. Google Tensor’s main processors are Arm-based and utilize TrustZone™ technology. TrustZone is a key part of our security architecture for general secure processing, but the security improvements included in Google Tensor go beyond TrustZone.
+
+The Google Tensor security core is a custom designed security subsystem dedicated to the preservation of user privacy.  It's distinct from the application processor, not only logically, but physically, and consists of a dedicated CPU, ROM, one-time-programmable (OTP) memory, crypto engine, internal SRAM, and protected DRAM.  For Pixel 6 and 6 Pro, the security core’s primary use cases include protecting user data keys at runtime, hardening secure boot, and interfacing with Titan M2TM.
+
+
+Your secure hardware is only as good as your secure OS, and we are using Trusty, our open source trusted execution environment. Trusty OS is the secure OS used both in TrustZone and the Google Tensor security core.
+
+
+With Pixel 6 and Pixel 6 Pro your security is enhanced by the new Titan M2TM, our discrete security chip, fully designed and developed by Google. In this next generation chip, we moved to an in-house designed RISC-V processor, with extra speed and memory, and made it even more resilient to advanced attacks. Titan M2TM has been tested against the most rigorous standard for vulnerability assessment, AVA_VAN.5, by an independent, accredited evaluation lab. Titan M2™ supports Android Strongbox, which securely generates and stores keys used to protect your PINs and password, and works hand-in-hand with Google Tensor security core to protect user data keys while in use in the SoC.
+
+
+Moving a step higher in the system, Pixel 6 and Pixel 6 Pro ship with Android 12 and a slew of Pixel-first and Pixel-exclusive features.
+
+
+Enhanced Controls
+
+
+We aim to give users better ways to control their data and manage their devices with every release of Android. Starting with Android 12 on Pixel, you can use the new Security hub to manage all your security settings in one place. It helps protect your phone, apps, Google Account, and passwords by giving you a central view of your device’s current configuration. Security hub also provides recommendations to improve your security, helping you decide what settings best meet your needs.
+
+
+For privacy, we are launching Privacy Dashboard, which will give you a simple and clear timeline view of the apps that have accessed your location, microphone and camera in the last 24 hours. If you notice apps that are accessing more data than you expected, the dashboard provides a path to controls to change those permissions on the fly. 
+
+
+To provide additional transparency, new indicators in Pixel’s status bar will show you when your camera and mic are being accessed by apps. If you want to disable that access, new privacy toggles give you the ability to turn off camera or microphone access across apps on your phone with a single tap, at any time.
+
+
+The Pixel 6 and Pixel 6 Pro also include a toggle that lets you remove your device’s ability to connect to less-secure 2G networks. While necessary in certain situations, accessing 2G networks can open up additional attack vectors; this toggle helps users mitigate those risks when 2G connectivity isn’t needed.
+
+
+Built-in security
+
+
+By making all of our products secure by default, Google keeps more people safe online than anyone else in the world. With the Pixel 6 and Pixel 6 Pro, we’re also ratcheting up the dial on default, built-in protections. 
+
+
+Our new optical under-display fingerprint sensor ensures that your biometric information is secure and never leaves your device. As part of our ongoing security development lifecycle, Pixel 6 and 6 Pro’s fingerprint unlock has been externally validated by security experts as a strong and secure biometric unlock mechanism meeting the Class 3 strength requirements defined in the Android 12 Compatibility Definition Document (CDD). 
+
+
+Phishing continues to be a huge attack vector, affecting everyone across different devices. 
+
+
+The Pixel 6 and Pixel 6 Pro introduce new anti-phishing protections. Built-in protections automatically scan for potential threats from phone calls, text messages, emails, and links sent through apps, notifying you if there’s a potential problem. 
+
+
+Users are also now better protected against bad apps by enhancements to our on-device detection capabilities within Google Play Protect. Since its launch in 2017, Google Play Protect has provided the ability to detect malicious applications even when the device is offline. The Pixel 6 and Pixel 6 Pro uses new machine learning models that improve the detection of malware in Google Play Protect. The detection runs on your Pixel, and uses a privacy preserving technology called federated analytics to discover commonly-run bad apps. This will help to further protect over 3 billion users by improving Google Play Protect, which already analyzes over 100 billion apps every day to detect threats. 
+
+
+Many of Pixel’s privacy-preserving features run inside Private Compute Core, an open source sandbox isolated from the rest of the operating system and apps. Our open source Private Compute Services manages network communication for these features, and uses federated learning, federated analytics, and private information retrieval to improve features while preserving privacy. Some features already running on Private Compute Core include Live Caption, Now Playing, and Smart Reply suggestions.
+
+
+Google Binary Transparency (GBT) is the newest addition to our open and verifiable security infrastructure, providing a new layer of software integrity for your device. Building on the principles pioneered by Certificate Transparency, GBT helps ensure your Pixel is only running verified OS software. It works by using append-only logs to store signed hashes of the system images. The logs are public and can be used to verify that what’s published is the same as what’s on the device – giving users and researchers the ability to independently verify OS integrity for the first time.  
+
+
+Beyond the Phone
+
+
+Defense-in-depth isn’t just a matter of hardware and software layers. Security is a rigorous process. Pixel 6 and Pixel 6 Pro benefit from in-depth design and architecture reviews, memory-safe rewrites to security critical code, static analysis, formal verification of source code,  fuzzing of critical components, and red-teaming, including with external security labs to pen-test our devices. Pixel is also part of the Android Vulnerability Rewards Program, which paid out $1.75 million last year, creating a valuable feedback loop between us and the security research community and, most importantly, helping us keep our users safe.
+
+
+Capping off this combined hardware and software security system, is the Titan Backup Architecture, which gives your Pixel a secure foot in the cloud. Launched in 2018, the combination of Android’s Backup Service and Google Cloud’s Titan Technology means that backed-up application data can only be decrypted by a randomly generated key that isn't known to anyone besides the client, including Google. This end-to-end service was independently audited by a third party security lab to ensure no one can access a user's backed-up application data without specifically knowing their passcode.
+
+
+To top it all off, this end-to-end security from the hardware across the software to the data center comes with no fewer than 5 years of guaranteed Android security updates on Pixel 6 and Pixel 6 Pro devices from the date they launch in the US. This is an important commitment for the industry, and we hope that other smartphone manufacturers broaden this trend.
+
+
+Together, our secure chipset, software and processes make Pixel 6 and Pixel 6 Pro the most secure Pixel phone yet. 
+
+
+
+Post a Comment

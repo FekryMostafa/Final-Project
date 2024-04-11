@@ -1,0 +1,4 @@
+One of the most important metrics Google uses when determining whether to promote your Action is user engagement, or how many users return to your Action after the first conversation. Implement user engagement features to bring users back to your Action.
+Learn how to add user engagement features to your Action.
+Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2023-11-02 UTC.
