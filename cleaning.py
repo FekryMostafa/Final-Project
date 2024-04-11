@@ -11,7 +11,8 @@ print(len(lines))
 
 #lines = [line for line in lines if 'author' not in line.lower()]
 
-lines = [line for line in lines if 'text' not in line.lower()]
+#lines = [line for line in lines if 'text' not in line.lower()]
+lines = [line for line in lines if 'you' not in line.lower()]
 
 with open('data.jsonl', 'w') as f:
     #f.write(content)
