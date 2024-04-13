@@ -26,4 +26,10 @@ while True:
 	response=tokenizer.batch_decode(generated_ids, 
 									skip_special_tokens=True)[0]
 
+	# remove repeat of the question
+	if '?' in response:
+		to_q = response.index('?')
+		if len(text)-1 <= to_q and response[:to_q] == text[:to_q]:
+			response = response[to_q+1:]
+		
 	print(f"\n\t<<< {response} >>>\n")
