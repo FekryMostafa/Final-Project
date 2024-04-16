@@ -1,9 +1,13 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
+import torch.cuda as cuda
 
-save_dir = "model_save/checkpoint-1750"
+
+save_dir = "GenAI-CoolCats/WLU-Phi2"
+device = "cuda" if cuda.is_available() else 'cpu'
+load8bit = device == "cuda"
 
 print("Loading model from checkpoint...")
-model = AutoModelForCausalLM.from_pretrained(save_dir, load_in_8bit=True)
+model = AutoModelForCausalLM.from_pretrained(save_dir, load_in_8bit=load8bit)
 print("Attaching adapter...")
 model.load_adapter(save_dir, adapter_name="Adapter1")
 print("Loading tokenizer...")
@@ -14,7 +18,7 @@ while True:
 	if text == "exit":
 		break
 	
-	model_inputs = tokenizer([text], return_tensors="pt", max_length=256).to("cuda")
+	model_inputs = tokenizer([text], return_tensors="pt", max_length=256).to(device)
 
 	generated_ids = model.generate(**model_inputs, 
 									max_length=1024,
