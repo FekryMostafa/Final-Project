@@ -22,9 +22,13 @@ On the GPU, however, you can expect the time to generate a response to be about 
 
 ### Run the model from huggingface.co
 
-Download the model and run it on your machine with
+Download the model and run it on your machine with our `GenAI-CoolCats/WLU-Phi2` [link](GenAI-CoolCats/WLU-Phi2)
 ```
 python3 load_from_checkpoint.py
+```
+Or run it as a Gradio App
+```
+python3 app.py
 ```
 
 ---
