@@ -27,8 +27,7 @@ while True:
 									do_sample=True,
 									pad_token_id=tokenizer.eos_token_id)
 
-	response=tokenizer.batch_decode(generated_ids, 
-									skip_special_tokens=True)[0]
+	response=tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
 
 	# remove repeat of the question
 	if '?' in response:
