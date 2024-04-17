@@ -1,0 +1,1 @@
+{"run_name": "./output", "train_runtime": 11331.4144, "train_samples_per_second": 2.471, "train_steps_per_second": 0.154, "train_loss": 0.009638567732913153, "epoch": 12.12, "eval_loss": 0.003748555900529027, "eval_runtime": 67.8227, "eval_samples_per_second": 15.098, "eval_steps_per_second": 1.887}

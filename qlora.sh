@@ -7,4 +7,4 @@ if [ ! -d "qlora" ]; then
 fi
 cd qlora
 git reset --hard 7f4e95a # this is the last version we used
-python3 _qlora.py --model_name_or_path microsoft/phi-2 --dataset ../data.jsonl --trust_remote_code True 
+python3 _qlora.py --model_name_or_path GenAI-CoolCats/WLU-Phi2 --dataset ../data.jsonl --trust_remote_code True --do_eval True
